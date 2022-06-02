@@ -4,7 +4,7 @@
 
 ## 🧑‍💻&nbsp;My About:
 
-<img alt="coding in dark mode" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif" height=200 align="right"/>
+<img alt="coding in dark mode" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif" height=180 align="right"/>
 
 🎓 &nbsp;At present I’m studying Information Technology at VR Siddhartha Engineering College,Vijayawada.\
 ✅ &nbsp;I’ve Experience in C, C++ and Python programming languages.\
