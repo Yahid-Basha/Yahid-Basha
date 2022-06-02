@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Yahid-Basha
-- 👀 I’m interested in Web/app developement ,Data Science and  AI&ML.
-- 🌱 I’m currently learning C language.
-- 💞️ I’m looking to collaborate on basic programming as i am not a pro yet.
-- 📫 reach me through insta @yahid_basha.
+<h1 style="color: rgb(255, 255, 255);"> Hi, I’m @Yahid-Basha </h1>
+<p style="color:white ;">
+    🎓 I’m studying Information Technology at VR Siddhartha Engineering College,Vijayawada <br>
+    ✅ I’ve Experience in C and Python languages.<br>
+    🛤️ I am currently making an interactable portfolio page with Frontend Developement<br>
+    🎯 I aim to learn 🔙🔚 Developement<br>
+    
+    📧 reach me through yahidbashat@gmail.com.
 
 <!---
 Yahid-Basha/Yahid-Basha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
