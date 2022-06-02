@@ -19,6 +19,9 @@
 - started practicing on <a href="https://leetcode.com/Yahid_S/">LeetCode</a>
 - See my Updates on <a href="https://www.linkedin.com/in/yahid-basha/" >Linkedin</a>
 
+##Snake 🐍
+![snake gif](https://github.com/Yahid-Basha/Yahid-Basha/blob/output/github-contribution-grid-snake.gif)
+
 <!---
 Yahid-Basha/Yahid-Basha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
