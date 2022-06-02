@@ -21,7 +21,9 @@
 
 ##Snake 🐍
 ![snake gif](https://github.com/Yahid-Basha/Yahid-Basha/blob/output/github-contribution-grid-snake.gif)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yahid-Basha/Yahid-Basha/blob/output/github-contribution-grid-snake.gif">
+</picvture>
 <!---
 Yahid-Basha/Yahid-Basha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
