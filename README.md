@@ -4,8 +4,7 @@
     ✅ I’ve Experience in C and Python languages.<br>
     🛤️ I am currently making an interactable portfolio page with Frontend Developement<br>
     🎯 I aim to learn 🔙🔚 Developement<br>
-    
-    📧 reach me through yahidbashat@gmail.com.
+    📧 reach me through <br>yahidbashat@gmail.com.
 
 <!---
 Yahid-Basha/Yahid-Basha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
