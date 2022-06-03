@@ -19,11 +19,11 @@
 - started practicing on <a href="https://leetcode.com/Yahid_S/">LeetCode</a>
 - See my Updates on <a href="https://www.linkedin.com/in/yahid-basha/" >Linkedin</a>
 
-## I've got a Snake to eat it all🐍
-![snake gif](https://github.com/Yahid-Basha/Yahid-Basha/blob/4d1cd44dac7a44e4e6b4039f714051c939ed55f4/github-contribution-grid-snake.svg)
+
 
 <!---
 Yahid-Basha/Yahid-Basha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 <p><img alt="Welcome" src="https://i.pinimg.com/originals/13/dc/02/13dc0237679cbeba6804ce6d619fb8a4.jpg" allign="left" height=200></p>
+![snake gif](https://github.com/Yahid-Basha/Yahid-Basha/blob/4d1cd44dac7a44e4e6b4039f714051c939ed55f4/github-contribution-grid-snake.svg)
 --->
