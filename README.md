@@ -19,7 +19,7 @@
 - started practicing on <a href="https://leetcode.com/Yahid_S/">LeetCode</a>
 - See my Updates on <a href="https://www.linkedin.com/in/yahid-basha/" >Linkedin</a>
 
-![snake gif](https://github.com/Yahid-Basha/Yahid-Basha/blob/4d1cd44dac7a44e4e6b4039f714051c939ed55f4/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Yahid-Basha/Yahid-Basha/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Yahid-Basha/Yahid-Basha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
