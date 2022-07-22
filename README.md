@@ -15,8 +15,8 @@
 
 ## 🌏 Let's Connect :
 
-<img alt="Techy" src="https://i.pinimg.com/originals/39/f6/a0/39f6a005763b37e2237b320df0e68e31.gif" height=165 align="right"/>
-
+<img src="https://i.pinimg.com/originals/39/f6/a0/39f6a005763b37e2237b320df0e68e31.gif" height=100 align="right"/>
+  
 - Sharing inferences on <a href="https://twitter.com/YahidSF">Twitter</a>
 - started practicing on <a href="https://leetcode.com/Yahid_S/">LeetCode</a>
 - See my Updates on <a href="https://www.linkedin.com/in/yahid-basha/" >Linkedin</a>
