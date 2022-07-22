@@ -4,16 +4,18 @@
 
 ## 🧑‍💻&nbsp;My About:
 
-<img alt="coding in dark mode" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif" height=180 align="right"/>
+<img alt="coding in dark mode" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif" height=165 align="right"/>
 
-🎓 &nbsp;At present I’m studying Information Technology at VR Siddhartha Engineering College,Vijayawada.\
-✅ &nbsp;I’ve Experience in C, C++ and Python programming languages.\
+🎓 &nbsp;At present I’m pursuing Information Technology at VR Siddhartha Engineering College,Vijayawada.\
+✅ &nbsp;I am Experienced in C and learning C++ & Python programming languages.\
 🛤️ &nbsp;I am currently working on an interactable portfolio webpage as Frontend project.\
 🎯 &nbsp;I enjoying learning and working with technologies  Data Science, Deep Learning.\
-📧 &nbsp;you can drop a mail in my inbox at yahidbashat@gmail.com! I'll try to respond as soon as I can.
+📧 &nbsp;You can drop a mail @ yahidbashat@gmail.com! I'll try to respond as soon as I can.
 
 
-## 🌏 Let's Connect
+## 🌏 Let's Connect :
+
+<img alt="Techy" src="https://i.pinimg.com/originals/39/f6/a0/39f6a005763b37e2237b320df0e68e31.gif" height=165 align="right"/>
 
 - Sharing inferences on <a href="https://twitter.com/YahidSF">Twitter</a>
 - started practicing on <a href="https://leetcode.com/Yahid_S/">LeetCode</a>
@@ -24,6 +26,4 @@
 <!---
 Yahid-Basha/Yahid-Basha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<p><img alt="Welcome" src="https://i.pinimg.com/originals/13/dc/02/13dc0237679cbeba6804ce6d619fb8a4.jpg" allign="left" height=200></p>
-![snake gif](https://github.com/Yahid-Basha/Yahid-Basha/blob/4d1cd44dac7a44e4e6b4039f714051c939ed55f4/github-contribution-grid-snake.svg)
 --->
