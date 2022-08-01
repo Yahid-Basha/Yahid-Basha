@@ -10,7 +10,7 @@
 ✅ &nbsp;I am Experienced in C and learning C++ & Python programming languages.\
 🛤️ &nbsp;I am currently working on an interactable portfolio webpage as Frontend project.\
 🎯 &nbsp;I enjoying learning and working with technologies  Data Science, Deep Learning.\
-📧 &nbsp;You can drop a mail @ yahidbashat@gmail.com! I'll try to respond as soon as I can.
+📧 &nbsp;You can drop a mail @-yahidbashat@gmail.com! I'll try to respond as soon as I can.
 
 
 ## 🌏 Let's Connect :
