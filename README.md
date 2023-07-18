@@ -7,7 +7,7 @@
 <img alt="coding in dark mode" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif" height=165 align="right"/>
 
 🎓 &nbsp;At present I’m pursuing Information Technology at VR Siddhartha Engineering College,Vijayawada.\
-✅ &nbsp;I am Experienced in C and learning C++ & Python programming languages.\
+✅ &nbsp;I am Experienced in C, C++, python & java programming languages.\
 🛤️ &nbsp;I am currently working on an interactable portfolio webpage as Frontend project.\
 🎯 &nbsp;I enjoying learning and working with technologies  Data Science, Deep Learning.\
 📧 &nbsp;You can drop a mail @-yahidbashat@gmail.com! I'll try to respond as soon as I can.
