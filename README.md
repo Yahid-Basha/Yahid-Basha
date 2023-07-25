@@ -8,8 +8,8 @@
 
 🎓 &nbsp;At present I’m pursuing Information Technology at VR Siddhartha Engineering College,Vijayawada.\
 ✅ &nbsp;I am Experienced in C, C++, python & java programming languages.\
-🛤️ &nbsp;I am currently working on an interactable portfolio webpage as Frontend project.\
-🎯 &nbsp;I enjoying learning and working with technologies  Data Science, Deep Learning.\
+🛤️ &nbsp;I am currently in Junior year. \
+🎯 &nbsp;I enjoy learning and build new things.\
 📧 &nbsp;You can drop a mail @-yahidbashat@gmail.com! I'll try to respond as soon as I can.
 
 
@@ -17,13 +17,13 @@
 
 <img src="https://i.pinimg.com/originals/39/f6/a0/39f6a005763b37e2237b320df0e68e31.gif" height=100 align="right"/>
   
-- Sharing inferences on <a href="https://twitter.com/YahidSF">Twitter</a>
-- started practicing on <a href="https://leetcode.com/Yahid_S/">LeetCode</a>
+- Sharing my journey on <a href="https://twitter.com/YahidSF">Twitter</a>
 - See my Updates on <a href="https://www.linkedin.com/in/yahid-basha/" >Linkedin</a>
 
-![Snake animation](https://github.com/Yahid-Basha/Yahid-Basha/blob/output/github-contribution-grid-snake.svg)
 
 <!---
+![Snake animation](https://github.com/Yahid-Basha/Yahid-Basha/blob/output/github-contribution-grid-snake.svg)
+- started practicing on <a href="https://leetcode.com/Yahid_S/">LeetCode</a>
 Yahid-Basha/Yahid-Basha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
