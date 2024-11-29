@@ -8,16 +8,14 @@
 
 🎓 &nbsp;At present I’m pursuing Information Technology at VR Siddhartha Engineering College,Vijayawada.\
 ✅ &nbsp;I am Experienced in C, C++, python & java programming languages.\
-🛤️ &nbsp;I am currently in Junior year. \
+🛤️ &nbsp;I am currently in Final year. \
 🎯 &nbsp;I enjoy learning and build new things.\
-📧 &nbsp;You can drop a mail @-yahidbashat@gmail.com! I'll try to respond as soon as I can.
+📧 &nbsp;You can drop a mail @-yahidbashat@gmail.com! I'll respond as soon as I can.
 
 
 ## 🌏 Let's Connect :
 
 <img src="https://i.pinimg.com/originals/39/f6/a0/39f6a005763b37e2237b320df0e68e31.gif" height=100 align="right"/>
-  
-- Sharing my journey on <a href="https://twitter.com/YahidSF">Twitter</a>
 - See my Updates on <a href="https://www.linkedin.com/in/yahid-basha/" >Linkedin</a>
 
 
